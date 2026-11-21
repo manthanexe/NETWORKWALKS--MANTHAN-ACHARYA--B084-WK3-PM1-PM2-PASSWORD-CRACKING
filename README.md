@@ -18,5 +18,3 @@ Steps performed:
 3. Confirmed the result by opening the PDF with the recovered password and capturing Flag1: ⁠nw{cybersecurity_flag_captured_2608}⁠.
 Key takeaway
 Both labs recover the same class of password (a PDF user/owner password hash) through different tool chains — a local GUI cracker (JTR/Johnny) versus two browser-based Networkwalks tools. Either approach reaches the same result quickly because the target passwords are short and dictionary-guessable, demonstrating how fast weak passwords fail against publicly available tools.
-Part of the Networkwalks Cybersecurity Internship — Batch B084.
-Lab files and target PDFs provided by Networkwalks for training purposes only.
